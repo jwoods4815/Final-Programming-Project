@@ -1,0 +1,501 @@
+date,amount,category,description
+2023-07-01,84.55,Groceries,Costco
+2023-07-01,99.56,Groceries,Costco
+2023-07-02,115.84,Bills,Con Edison Electric
+2023-07-02,18.92,Dining Out,Chipotle
+2023-07-03,68.14,Groceries,Costco
+2023-07-03,208.54,Online Stores,Best Buy
+2023-07-04,183.4,Online Stores,Best Buy
+2023-07-04,111.85,Groceries,Trader Joe's
+2023-07-05,198.34,Online Stores,eBay
+2023-07-05,44.95,Dining Out,Chipotle
+2023-07-06,75.02,Groceries,Kroger
+2023-07-06,86.89,Groceries,Kroger
+2023-07-07,126.83,Bills,State Farm Insurance
+2023-07-07,145.29,Bills,Spectrum Internet
+2023-07-08,86.3,Bills,Con Edison Electric
+2023-07-08,39.77,Dining Out,McDonald's
+2023-07-09,104.37,Online Stores,Walmart.com
+2023-07-09,172.44,Bills,Verizon Wireless
+2023-07-10,9.99,Subscriptions,Disney+
+2023-07-10,35.03,Dining Out,Starbucks
+2023-07-11,212.62,Online Stores,eBay
+2023-07-11,89.07,Groceries,Aldi
+2023-07-12,44.36,Dining Out,Shake Shack
+2023-07-12,9.99,Subscriptions,Apple Music
+2023-07-13,106.5,Bills,Con Edison Electric
+2023-07-13,101.59,Groceries,Trader Joe's
+2023-07-14,116.67,Groceries,Kroger
+2023-07-14,51.66,Online Stores,eBay
+2023-07-15,12.99,Subscriptions,Apple Music
+2023-07-15,184.45,Bills,State Farm Insurance
+2023-07-16,118.03,Groceries,Trader Joe's
+2023-07-16,12.99,Subscriptions,Netflix
+2023-07-17,99.33,Groceries,Whole Foods
+2023-07-17,81.41,Groceries,Trader Joe's
+2023-07-18,153.03,Bills,Geico Auto Insurance
+2023-07-18,72.4,Groceries,Whole Foods
+2023-07-19,88.08,Bills,Con Edison Electric
+2023-07-19,9.99,Subscriptions,Apple Music
+2023-07-20,8.28,Dining Out,Chipotle
+2023-07-20,14.99,Subscriptions,Netflix
+2023-07-21,123.02,Bills,Verizon Wireless
+2023-07-21,133.9,Online Stores,eBay
+2023-07-22,70.18,Groceries,Trader Joe's
+2023-07-22,128.33,Bills,Spectrum Internet
+2023-07-23,218.51,Online Stores,Best Buy
+2023-07-23,14.99,Subscriptions,Apple Music
+2023-07-24,12.99,Subscriptions,Spotify
+2023-07-24,162.46,Bills,Con Edison Electric
+2023-07-25,231.03,Online Stores,Walmart.com
+2023-07-25,54.75,Bills,State Farm Insurance
+2023-07-26,134.03,Bills,Spectrum Internet
+2023-07-26,105.46,Bills,Con Edison Electric
+2023-07-27,12.99,Subscriptions,Amazon Prime
+2023-07-27,24.49,Dining Out,Shake Shack
+2023-07-28,9.33,Dining Out,Olive Garden
+2023-07-28,9.99,Subscriptions,Netflix
+2023-07-29,75.66,Bills,Geico Auto Insurance
+2023-07-29,37.66,Dining Out,Chipotle
+2023-07-30,24.3,Online Stores,Etsy
+2023-07-30,100.47,Bills,Spectrum Internet
+2023-07-31,9.99,Subscriptions,Amazon Prime
+2023-07-31,124.0,Bills,Verizon Wireless
+2023-08-01,62.55,Bills,Con Edison Electric
+2023-08-01,9.99,Subscriptions,Disney+
+2023-08-02,228.54,Online Stores,Amazon
+2023-08-02,14.99,Subscriptions,Disney+
+2023-08-03,84.05,Bills,Con Edison Electric
+2023-08-03,14.99,Subscriptions,Netflix
+2023-08-04,60.66,Groceries,Costco
+2023-08-04,110.6,Groceries,Aldi
+2023-08-05,220.52,Online Stores,Amazon
+2023-08-05,164.64,Bills,Verizon Wireless
+2023-08-06,159.98,Online Stores,Etsy
+2023-08-06,192.91,Bills,Con Edison Electric
+2023-08-07,14.99,Subscriptions,Spotify
+2023-08-07,142.62,Bills,State Farm Insurance
+2023-08-08,9.99,Subscriptions,Apple Music
+2023-08-08,21.98,Online Stores,Best Buy
+2023-08-09,199.31,Online Stores,Best Buy
+2023-08-09,156.26,Bills,State Farm Insurance
+2023-08-10,137.58,Online Stores,Etsy
+2023-08-10,19.99,Subscriptions,Disney+
+2023-08-11,18.57,Dining Out,Chipotle
+2023-08-11,64.36,Groceries,Costco
+2023-08-12,108.69,Groceries,Trader Joe's
+2023-08-12,8.23,Dining Out,McDonald's
+2023-08-13,103.45,Groceries,Whole Foods
+2023-08-13,43.26,Dining Out,McDonald's
+2023-08-14,12.99,Subscriptions,Disney+
+2023-08-14,91.4,Online Stores,Walmart.com
+2023-08-15,85.59,Bills,Verizon Wireless
+2023-08-15,93.24,Groceries,Whole Foods
+2023-08-16,64.13,Groceries,Whole Foods
+2023-08-16,108.24,Groceries,Aldi
+2023-08-17,130.2,Bills,Con Edison Electric
+2023-08-17,239.55,Online Stores,Walmart.com
+2023-08-18,40.82,Online Stores,Walmart.com
+2023-08-18,9.99,Subscriptions,Disney+
+2023-08-19,102.02,Bills,Con Edison Electric
+2023-08-19,75.82,Groceries,Costco
+2023-08-20,139.83,Online Stores,Amazon
+2023-08-20,21.96,Dining Out,McDonald's
+2023-08-21,30.49,Dining Out,Starbucks
+2023-08-21,14.99,Subscriptions,Netflix
+2023-08-22,14.99,Subscriptions,Apple Music
+2023-08-22,14.99,Subscriptions,Disney+
+2023-08-23,194.73,Bills,Con Edison Electric
+2023-08-23,187.21,Bills,State Farm Insurance
+2023-08-24,41.95,Online Stores,Best Buy
+2023-08-24,74.36,Groceries,Aldi
+2023-08-25,74.9,Bills,Geico Auto Insurance
+2023-08-25,84.63,Bills,Verizon Wireless
+2023-08-26,29.0,Online Stores,Walmart.com
+2023-08-26,20.67,Dining Out,Chipotle
+2023-08-27,9.99,Subscriptions,Disney+
+2023-08-27,192.26,Online Stores,eBay
+2023-08-28,102.89,Groceries,Trader Joe's
+2023-08-28,139.33,Bills,Geico Auto Insurance
+2023-08-29,59.17,Groceries,Aldi
+2023-08-29,143.13,Bills,Spectrum Internet
+2023-08-30,77.23,Groceries,Whole Foods
+2023-08-30,60.83,Groceries,Whole Foods
+2023-08-31,40.23,Groceries,Costco
+2023-08-31,9.99,Subscriptions,Disney+
+2023-09-01,50.32,Bills,State Farm Insurance
+2023-09-01,97.31,Groceries,Costco
+2023-09-02,19.99,Subscriptions,Netflix
+2023-09-02,197.07,Bills,Verizon Wireless
+2023-09-03,39.7,Dining Out,Starbucks
+2023-09-03,142.04,Online Stores,Walmart.com
+2023-09-04,9.99,Subscriptions,Spotify
+2023-09-04,125.39,Online Stores,Walmart.com
+2023-09-05,12.99,Subscriptions,Apple Music
+2023-09-05,62.03,Online Stores,Walmart.com
+2023-09-06,172.16,Bills,Geico Auto Insurance
+2023-09-06,114.44,Groceries,Costco
+2023-09-07,89.54,Groceries,Whole Foods
+2023-09-07,81.7,Groceries,Costco
+2023-09-08,42.06,Dining Out,Olive Garden
+2023-09-08,142.13,Bills,Spectrum Internet
+2023-09-09,128.1,Bills,Spectrum Internet
+2023-09-09,54.47,Groceries,Trader Joe's
+2023-09-10,32.74,Online Stores,Amazon
+2023-09-10,43.23,Groceries,Whole Foods
+2023-09-11,94.56,Online Stores,Best Buy
+2023-09-11,40.63,Dining Out,Starbucks
+2023-09-12,85.78,Groceries,Whole Foods
+2023-09-12,44.57,Groceries,Whole Foods
+2023-09-13,117.37,Groceries,Aldi
+2023-09-13,19.99,Subscriptions,Netflix
+2023-09-14,9.99,Subscriptions,Amazon Prime
+2023-09-14,7.59,Dining Out,Chipotle
+2023-09-15,76.12,Online Stores,Walmart.com
+2023-09-15,29.38,Dining Out,McDonald's
+2023-09-16,86.55,Groceries,Whole Foods
+2023-09-16,9.99,Subscriptions,Spotify
+2023-09-17,35.14,Dining Out,Starbucks
+2023-09-17,80.75,Bills,Geico Auto Insurance
+2023-09-18,231.35,Online Stores,Etsy
+2023-09-18,104.82,Groceries,Aldi
+2023-09-19,33.64,Online Stores,Best Buy
+2023-09-19,77.57,Groceries,Costco
+2023-09-20,70.67,Groceries,Costco
+2023-09-20,44.97,Dining Out,McDonald's
+2023-09-21,23.4,Dining Out,McDonald's
+2023-09-21,6.97,Dining Out,Chipotle
+2023-09-22,5.04,Dining Out,Starbucks
+2023-09-22,242.41,Online Stores,Etsy
+2023-09-23,181.52,Bills,Spectrum Internet
+2023-09-23,88.25,Groceries,Trader Joe's
+2023-09-24,68.34,Online Stores,Walmart.com
+2023-09-24,98.35,Online Stores,Etsy
+2023-09-25,8.62,Dining Out,Chipotle
+2023-09-25,99.06,Groceries,Costco
+2023-09-26,157.06,Bills,Spectrum Internet
+2023-09-26,22.17,Dining Out,Olive Garden
+2023-09-27,111.4,Groceries,Aldi
+2023-09-27,245.57,Online Stores,Amazon
+2023-09-28,162.43,Online Stores,Walmart.com
+2023-09-28,91.72,Groceries,Kroger
+2023-09-29,73.2,Groceries,Trader Joe's
+2023-09-29,88.06,Bills,Verizon Wireless
+2023-09-30,183.15,Online Stores,eBay
+2023-09-30,64.81,Bills,Geico Auto Insurance
+2023-10-01,116.01,Bills,Verizon Wireless
+2023-10-01,54.14,Bills,Geico Auto Insurance
+2023-10-02,36.15,Dining Out,McDonald's
+2023-10-02,91.68,Groceries,Trader Joe's
+2023-10-03,70.17,Bills,Geico Auto Insurance
+2023-10-03,18.28,Dining Out,Starbucks
+2023-10-04,55.62,Bills,Verizon Wireless
+2023-10-04,139.5,Bills,Geico Auto Insurance
+2023-10-05,12.99,Subscriptions,Amazon Prime
+2023-10-05,21.8,Dining Out,McDonald's
+2023-10-06,42.16,Groceries,Costco
+2023-10-06,108.58,Bills,Con Edison Electric
+2023-10-07,19.99,Subscriptions,Apple Music
+2023-10-07,69.67,Bills,Geico Auto Insurance
+2023-10-08,45.42,Groceries,Whole Foods
+2023-10-08,143.35,Bills,State Farm Insurance
+2023-10-09,125.77,Bills,State Farm Insurance
+2023-10-09,165.94,Bills,Con Edison Electric
+2023-10-10,64.12,Groceries,Costco
+2023-10-10,42.1,Groceries,Whole Foods
+2023-10-11,70.33,Online Stores,Best Buy
+2023-10-11,9.99,Subscriptions,Netflix
+2023-10-12,150.62,Bills,Con Edison Electric
+2023-10-12,19.99,Subscriptions,Amazon Prime
+2023-10-13,40.52,Groceries,Kroger
+2023-10-13,61.87,Groceries,Costco
+2023-10-14,90.77,Bills,Con Edison Electric
+2023-10-14,28.25,Dining Out,Shake Shack
+2023-10-15,196.27,Online Stores,Amazon
+2023-10-15,7.06,Dining Out,Olive Garden
+2023-10-16,126.29,Bills,Geico Auto Insurance
+2023-10-16,69.09,Groceries,Trader Joe's
+2023-10-17,58.28,Groceries,Whole Foods
+2023-10-17,34.18,Dining Out,Shake Shack
+2023-10-18,19.99,Subscriptions,Amazon Prime
+2023-10-18,114.26,Groceries,Kroger
+2023-10-19,78.15,Groceries,Kroger
+2023-10-19,53.81,Online Stores,Etsy
+2023-10-20,129.05,Online Stores,Best Buy
+2023-10-20,6.63,Dining Out,McDonald's
+2023-10-21,145.65,Online Stores,Best Buy
+2023-10-21,174.31,Bills,State Farm Insurance
+2023-10-22,129.19,Bills,Spectrum Internet
+2023-10-22,37.84,Dining Out,Starbucks
+2023-10-23,12.99,Subscriptions,Spotify
+2023-10-23,12.99,Subscriptions,Spotify
+2023-10-24,90.64,Groceries,Costco
+2023-10-24,24.55,Dining Out,Shake Shack
+2023-10-25,28.51,Online Stores,Amazon
+2023-10-25,16.13,Dining Out,Chipotle
+2023-10-26,34.03,Dining Out,McDonald's
+2023-10-26,12.99,Subscriptions,Spotify
+2023-10-27,84.97,Bills,Con Edison Electric
+2023-10-27,61.67,Bills,Spectrum Internet
+2023-10-28,14.99,Subscriptions,Amazon Prime
+2023-10-28,133.0,Online Stores,Etsy
+2023-10-29,19.99,Subscriptions,Amazon Prime
+2023-10-29,60.66,Groceries,Costco
+2023-10-30,19.99,Subscriptions,Disney+
+2023-10-30,12.57,Dining Out,McDonald's
+2023-10-31,157.15,Bills,Verizon Wireless
+2023-10-31,12.99,Subscriptions,Spotify
+2023-11-01,24.7,Dining Out,McDonald's
+2023-11-01,69.67,Bills,Con Edison Electric
+2023-11-02,99.16,Online Stores,eBay
+2023-11-02,19.99,Subscriptions,Netflix
+2023-11-03,18.46,Dining Out,Starbucks
+2023-11-03,85.63,Bills,Verizon Wireless
+2023-11-04,9.99,Subscriptions,Amazon Prime
+2023-11-04,43.42,Groceries,Whole Foods
+2023-11-05,7.13,Dining Out,Chipotle
+2023-11-05,127.25,Bills,Verizon Wireless
+2023-11-06,77.15,Online Stores,eBay
+2023-11-06,40.68,Groceries,Kroger
+2023-11-07,40.03,Dining Out,Starbucks
+2023-11-07,97.94,Bills,Con Edison Electric
+2023-11-08,69.04,Online Stores,Etsy
+2023-11-08,94.56,Groceries,Costco
+2023-11-09,140.91,Bills,Con Edison Electric
+2023-11-09,34.27,Dining Out,McDonald's
+2023-11-10,106.61,Bills,Verizon Wireless
+2023-11-10,10.02,Dining Out,Olive Garden
+2023-11-11,63.37,Online Stores,Best Buy
+2023-11-11,161.8,Online Stores,eBay
+2023-11-12,122.86,Bills,Con Edison Electric
+2023-11-12,58.26,Groceries,Aldi
+2023-11-13,19.99,Subscriptions,Disney+
+2023-11-13,14.99,Subscriptions,Amazon Prime
+2023-11-14,35.41,Dining Out,Olive Garden
+2023-11-14,71.15,Groceries,Whole Foods
+2023-11-15,118.23,Groceries,Whole Foods
+2023-11-15,38.16,Online Stores,Best Buy
+2023-11-16,62.01,Groceries,Whole Foods
+2023-11-16,57.41,Groceries,Costco
+2023-11-17,9.99,Subscriptions,Disney+
+2023-11-17,159.7,Bills,State Farm Insurance
+2023-11-18,65.35,Bills,State Farm Insurance
+2023-11-18,29.03,Dining Out,Olive Garden
+2023-11-19,244.91,Online Stores,Amazon
+2023-11-19,11.06,Dining Out,Starbucks
+2023-11-20,14.99,Subscriptions,Spotify
+2023-11-20,28.35,Dining Out,Starbucks
+2023-11-21,109.06,Groceries,Trader Joe's
+2023-11-21,14.99,Subscriptions,Spotify
+2023-11-22,42.28,Groceries,Whole Foods
+2023-11-22,88.68,Groceries,Trader Joe's
+2023-11-23,145.4,Bills,Geico Auto Insurance
+2023-11-23,8.25,Dining Out,McDonald's
+2023-11-24,60.73,Groceries,Aldi
+2023-11-24,135.24,Bills,Verizon Wireless
+2023-11-25,69.77,Groceries,Whole Foods
+2023-11-25,130.88,Bills,Con Edison Electric
+2023-11-26,75.4,Bills,Verizon Wireless
+2023-11-26,19.99,Subscriptions,Amazon Prime
+2023-11-27,46.79,Online Stores,Etsy
+2023-11-27,139.83,Online Stores,Etsy
+2023-11-28,12.99,Subscriptions,Apple Music
+2023-11-28,14.99,Subscriptions,Spotify
+2023-11-29,132.58,Bills,Geico Auto Insurance
+2023-11-29,43.18,Dining Out,Starbucks
+2023-11-30,201.39,Online Stores,eBay
+2023-11-30,9.63,Dining Out,McDonald's
+2023-12-01,24.95,Dining Out,McDonald's
+2023-12-01,12.99,Subscriptions,Apple Music
+2023-12-02,20.03,Online Stores,Best Buy
+2023-12-02,104.66,Groceries,Aldi
+2023-12-03,23.63,Online Stores,Best Buy
+2023-12-03,223.76,Online Stores,eBay
+2023-12-04,59.26,Online Stores,Best Buy
+2023-12-04,138.91,Bills,Spectrum Internet
+2023-12-05,100.6,Groceries,Whole Foods
+2023-12-05,12.99,Subscriptions,Netflix
+2023-12-06,104.66,Groceries,Aldi
+2023-12-06,163.83,Bills,Con Edison Electric
+2023-12-07,108.3,Bills,Verizon Wireless
+2023-12-07,107.04,Bills,Verizon Wireless
+2023-12-08,111.87,Groceries,Kroger
+2023-12-08,9.99,Subscriptions,Disney+
+2023-12-09,24.38,Dining Out,Olive Garden
+2023-12-09,77.88,Bills,State Farm Insurance
+2023-12-10,9.99,Subscriptions,Spotify
+2023-12-10,28.21,Dining Out,Olive Garden
+2023-12-11,120.16,Bills,Spectrum Internet
+2023-12-11,145.41,Bills,Con Edison Electric
+2023-12-12,38.34,Online Stores,Best Buy
+2023-12-12,12.99,Subscriptions,Spotify
+2023-12-13,12.99,Subscriptions,Amazon Prime
+2023-12-13,14.99,Subscriptions,Apple Music
+2023-12-14,112.55,Bills,State Farm Insurance
+2023-12-14,82.35,Online Stores,Amazon
+2023-12-15,41.19,Dining Out,Starbucks
+2023-12-15,111.3,Bills,Con Edison Electric
+2023-12-16,14.99,Subscriptions,Amazon Prime
+2023-12-16,88.04,Groceries,Aldi
+2023-12-17,19.99,Subscriptions,Apple Music
+2023-12-17,43.89,Online Stores,Etsy
+2023-12-18,179.65,Bills,Verizon Wireless
+2023-12-18,91.08,Groceries,Whole Foods
+2023-12-19,46.08,Groceries,Trader Joe's
+2023-12-19,64.62,Groceries,Aldi
+2023-12-20,52.54,Groceries,Aldi
+2023-12-20,110.54,Bills,Verizon Wireless
+2023-12-21,151.1,Bills,Geico Auto Insurance
+2023-12-21,110.03,Groceries,Whole Foods
+2023-12-22,41.09,Groceries,Trader Joe's
+2023-12-22,209.43,Online Stores,Amazon
+2023-12-23,6.99,Dining Out,McDonald's
+2023-12-23,81.42,Bills,Spectrum Internet
+2023-12-24,165.32,Online Stores,Amazon
+2023-12-24,38.33,Online Stores,Amazon
+2023-12-25,198.95,Online Stores,Best Buy
+2023-12-25,29.01,Dining Out,Starbucks
+2023-12-26,44.73,Dining Out,McDonald's
+2023-12-26,90.08,Bills,Geico Auto Insurance
+2023-12-27,12.99,Subscriptions,Disney+
+2023-12-27,5.92,Dining Out,Chipotle
+2023-12-28,186.83,Bills,Con Edison Electric
+2023-12-28,23.83,Dining Out,Shake Shack
+2023-12-29,87.61,Groceries,Kroger
+2023-12-29,110.89,Online Stores,Amazon
+2023-12-30,222.33,Online Stores,Walmart.com
+2023-12-30,18.88,Dining Out,Olive Garden
+2023-12-31,243.41,Online Stores,eBay
+2023-12-31,145.46,Online Stores,Walmart.com
+2024-01-01,67.58,Groceries,Kroger
+2024-01-01,44.18,Dining Out,Shake Shack
+2024-01-02,112.36,Groceries,Costco
+2024-01-02,14.99,Subscriptions,Apple Music
+2024-01-03,42.3,Dining Out,Olive Garden
+2024-01-03,93.59,Bills,Geico Auto Insurance
+2024-01-04,25.32,Dining Out,Chipotle
+2024-01-04,28.36,Online Stores,Etsy
+2024-01-05,137.67,Online Stores,eBay
+2024-01-05,19.99,Subscriptions,Amazon Prime
+2024-01-06,33.08,Dining Out,Shake Shack
+2024-01-06,206.12,Online Stores,Etsy
+2024-01-07,12.99,Subscriptions,Amazon Prime
+2024-01-07,19.99,Subscriptions,Apple Music
+2024-01-08,21.88,Online Stores,eBay
+2024-01-08,58.99,Online Stores,eBay
+2024-01-09,8.49,Dining Out,Starbucks
+2024-01-09,19.99,Subscriptions,Netflix
+2024-01-10,152.97,Bills,Spectrum Internet
+2024-01-10,44.31,Dining Out,Starbucks
+2024-01-11,100.5,Groceries,Aldi
+2024-01-11,14.99,Subscriptions,Disney+
+2024-01-12,116.61,Groceries,Costco
+2024-01-12,33.84,Dining Out,Shake Shack
+2024-01-13,34.73,Dining Out,Chipotle
+2024-01-13,77.46,Bills,Spectrum Internet
+2024-01-14,112.44,Online Stores,Best Buy
+2024-01-14,19.99,Subscriptions,Apple Music
+2024-01-15,72.34,Online Stores,Walmart.com
+2024-01-15,17.06,Dining Out,Starbucks
+2024-01-16,93.56,Bills,Verizon Wireless
+2024-01-16,22.23,Dining Out,Starbucks
+2024-01-17,9.99,Subscriptions,Netflix
+2024-01-17,174.34,Bills,Spectrum Internet
+2024-01-18,222.14,Online Stores,Etsy
+2024-01-18,101.7,Groceries,Kroger
+2024-01-19,110.65,Groceries,Kroger
+2024-01-19,109.91,Bills,Geico Auto Insurance
+2024-01-20,19.99,Subscriptions,Apple Music
+2024-01-20,19.99,Subscriptions,Netflix
+2024-01-21,186.99,Online Stores,Amazon
+2024-01-21,81.29,Bills,Verizon Wireless
+2024-01-22,174.2,Bills,Spectrum Internet
+2024-01-22,29.29,Dining Out,Starbucks
+2024-01-23,135.11,Bills,Geico Auto Insurance
+2024-01-23,156.17,Bills,Verizon Wireless
+2024-01-24,56.77,Groceries,Kroger
+2024-01-24,33.74,Dining Out,Chipotle
+2024-01-25,130.89,Online Stores,Best Buy
+2024-01-25,39.99,Dining Out,Chipotle
+2024-01-26,32.49,Dining Out,Olive Garden
+2024-01-26,147.9,Bills,State Farm Insurance
+2024-01-27,133.84,Online Stores,Amazon
+2024-01-27,219.5,Online Stores,Amazon
+2024-01-28,208.51,Online Stores,Best Buy
+2024-01-28,62.76,Bills,State Farm Insurance
+2024-01-29,37.7,Dining Out,Chipotle
+2024-01-29,99.02,Groceries,Kroger
+2024-01-30,224.86,Online Stores,Walmart.com
+2024-01-30,76.81,Groceries,Kroger
+2024-01-31,156.62,Online Stores,Walmart.com
+2024-01-31,65.33,Bills,Geico Auto Insurance
+2024-02-01,14.99,Dining Out,McDonald's
+2024-02-01,101.91,Online Stores,eBay
+2024-02-02,65.52,Groceries,Whole Foods
+2024-02-02,31.73,Dining Out,Chipotle
+2024-02-03,9.99,Subscriptions,Amazon Prime
+2024-02-03,14.99,Subscriptions,Apple Music
+2024-02-04,14.99,Subscriptions,Amazon Prime
+2024-02-04,61.18,Groceries,Whole Foods
+2024-02-05,108.42,Groceries,Whole Foods
+2024-02-05,66.36,Bills,State Farm Insurance
+2024-02-06,172.44,Bills,Spectrum Internet
+2024-02-06,70.97,Groceries,Trader Joe's
+2024-02-07,238.46,Online Stores,Amazon
+2024-02-07,178.38,Bills,Verizon Wireless
+2024-02-08,12.99,Subscriptions,Spotify
+2024-02-08,91.35,Online Stores,Walmart.com
+2024-02-09,105.39,Bills,Con Edison Electric
+2024-02-09,41.94,Dining Out,Starbucks
+2024-02-10,18.89,Dining Out,Starbucks
+2024-02-10,161.8,Bills,Spectrum Internet
+2024-02-11,129.63,Online Stores,Walmart.com
+2024-02-11,12.96,Dining Out,Starbucks
+2024-02-12,26.3,Dining Out,Starbucks
+2024-02-12,95.82,Bills,Geico Auto Insurance
+2024-02-13,12.99,Subscriptions,Apple Music
+2024-02-13,126.86,Online Stores,Best Buy
+2024-02-14,97.47,Online Stores,Walmart.com
+2024-02-14,14.99,Subscriptions,Amazon Prime
+2024-02-15,14.99,Subscriptions,Spotify
+2024-02-15,34.76,Online Stores,eBay
+2024-02-16,62.24,Bills,Geico Auto Insurance
+2024-02-16,14.19,Dining Out,McDonald's
+2024-02-17,70.52,Online Stores,Best Buy
+2024-02-17,83.84,Bills,Verizon Wireless
+2024-02-18,9.52,Dining Out,McDonald's
+2024-02-18,116.79,Online Stores,Best Buy
+2024-02-19,56.6,Groceries,Kroger
+2024-02-19,112.09,Groceries,Whole Foods
+2024-02-20,16.65,Dining Out,Olive Garden
+2024-02-20,7.53,Dining Out,Shake Shack
+2024-02-21,75.15,Online Stores,eBay
+2024-02-21,105.64,Bills,Verizon Wireless
+2024-02-22,249.03,Online Stores,eBay
+2024-02-22,178.82,Online Stores,Walmart.com
+2024-02-23,82.46,Groceries,Kroger
+2024-02-23,176.91,Bills,Geico Auto Insurance
+2024-02-24,14.99,Subscriptions,Disney+
+2024-02-24,80.64,Bills,Verizon Wireless
+2024-02-25,89.24,Groceries,Trader Joe's
+2024-02-25,199.9,Online Stores,Etsy
+2024-02-26,12.76,Dining Out,Starbucks
+2024-02-26,93.32,Bills,Spectrum Internet
+2024-02-27,92.29,Online Stores,Amazon
+2024-02-27,19.99,Subscriptions,Netflix
+2024-02-28,112.68,Bills,Verizon Wireless
+2024-02-28,102.73,Groceries,Costco
+2024-02-29,85.54,Bills,Geico Auto Insurance
+2024-02-29,77.76,Groceries,Aldi
+2024-03-01,112.01,Groceries,Whole Foods
+2024-03-01,91.21,Groceries,Trader Joe's
+2024-03-02,146.06,Bills,Verizon Wireless
+2024-03-02,238.0,Online Stores,Etsy
+2024-03-03,40.36,Groceries,Kroger
+2024-03-03,14.99,Subscriptions,Amazon Prime
+2024-03-04,229.0,Online Stores,Etsy
+2024-03-04,11.32,Dining Out,Chipotle
+2024-03-05,114.13,Groceries,Whole Foods
+2024-03-05,188.89,Bills,Verizon Wireless
+2024-03-06,98.81,Bills,Con Edison Electric
+2024-03-06,129.31,Online Stores,Etsy
