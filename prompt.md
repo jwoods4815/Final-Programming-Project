@@ -46,13 +46,13 @@ gantt
     title Project Timeline
     dateFormat  YYYY-MM-DD
     section Phase 1
-    Data Loading       :a1, 2024-06-01, 7d
+    Data Loading       :a1, 2025-04-07, 7d
     Basic Analysis     :a2, after a1, 7d
     section Phase 2
-    Advanced Features  :a3, 2024-06-15, 10d
-    Visualization      :a4, after a3, 5d
+    Advanced Features  :a3, 2025-04-21, 7d
+    Visualization      :a4, after a3, 7d
     section Phase 3
-    Polishing          :a5, 2024-06-25, 5d
+    Polishing          :a5, 2025-05-05, 7d
 ```
 
 ## **Grading Rubric**
