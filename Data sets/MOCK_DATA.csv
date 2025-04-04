@@ -1,0 +1,501 @@
+transaction_id,transaction_date,transaction_amount,transaction_type,transaction_desc,payment_method,location,currency,account_balance
+1,8/24/2022,423.58,transfer,Olive Garden,credit card,Hod HaSharon,ILS,55817.76
+2,4/1/2022,2479.05,transfer,Shake Shack,debit card,Kambatatamakawu,IDR,934685.12
+3,10/20/2022,1003.69,credit,Walmart.com,debit card,Okiot,PHP,44608.84
+4,12/28/2022,153.48,credit,McDonald's,debit card,Ishikawa,JPY,482718.85
+5,10/18/2022,5719.52,debit,Spectrum Internet,cash,Babakan,IDR,648710.24
+6,12/4/2022,2072.23,debit,"",credit card,Tambobamba,PEN,886225.97
+7,4/28/2022,5983.28,transfer,Apple Music,cash,Gainesville,USD,468283.55
+8,6/25/2022,8290.46,debit,Geico Auto Insurance,cash,Almargem do Bispo,EUR,702978.26
+9,2/2/2022,4756.26,debit,McDonald's,debit card,Cikadu,IDR,828701.68
+10,3/16/2022,5337.6,credit,McDonald's,credit card,Songying,CNY,419191.36
+11,3/5/2022,6128.11,credit,Olive Garden,credit card,Limeiras,EUR,697478.32
+12,8/14/2022,5215.32,transfer,Chipotle,cash,Barretos,BRL,45751.89
+13,4/3/2022,2282.73,transfer,Olive Garden,debit card,Goya,ARS,621071.81
+14,7/26/2022,2327.2,debit,Kroger,cash,Daqingshan,CNY,405208.03
+15,10/11/2022,4971.12,credit,Con Edison Electric,debit card,Dafengdui,CNY,339741.93
+16,7/2/2022,7993.76,credit,Walmart.com,credit card,Paris 20,EUR,243665.87
+17,4/14/2022,9459.35,credit,Chipotle,cash,Yangjiapo,CNY,469822.88
+18,2/15/2022,4069.11,credit,Best Buy,credit card,Amirdzhan,AZN,543102.05
+19,2/11/2022,7863.93,credit,Starbucks,debit card,Pisz,PLN,803024.52
+20,3/26/2022,5651.0,credit,Verizon Wireless,debit card,Mawa,IDR,430316.42
+21,7/20/2022,9293.49,credit,Costco,cash,Ncue,XAF,347261.08
+22,10/14/2022,3496.81,transfer,Netflix,credit card,Yaodian,CNY,708249.84
+23,2/13/2022,9239.51,debit,Walmart.com,credit card,Glugu,IDR,758495.27
+24,11/26/2022,6725.04,credit,Spectrum Internet,credit card,Lewin Kłodzki,PLN,106421.43
+25,11/23/2022,6019.47,transfer,eBay,debit card,Detik Satu,IDR,726379.06
+26,1/30/2022,8589.48,debit,Amazon,cash,Gangdong,CNY,809397.94
+27,9/27/2022,186.29,transfer,Trader Joe's,debit card,Newport,GBP,687862.03
+28,3/7/2022,1622.71,credit,"",cash,Cibunut,IDR,724216.83
+29,3/9/2022,7103.51,debit,Best Buy,cash,Momanalu,IDR,991905.72
+30,3/28/2022,622.12,debit,eBay,cash,Amparo,BRL,556664.9
+31,1/16/2022,4917.02,credit,Apple Music,cash,Yihe,CNY,388138.18
+32,5/26/2022,9089.72,credit,Costco,credit card,Abengourou,XOF,574297.94
+33,9/19/2022,4442.88,debit,Walmart.com,debit card,Prey Veng,KHR,657034.18
+34,12/19/2022,2651.61,debit,Apple Music,cash,Banjar Jagasatru,IDR,447027.02
+35,3/22/2022,2623.23,transfer,Spectrum Internet,credit card,Zaoshi,CNY,404693.78
+36,11/6/2022,9503.19,credit,Amazon,debit card,Klenčí pod Čerchovem,CZK,132648.99
+37,11/24/2022,247.44,credit,Spectrum Internet,cash,Sinubong,PHP,5260.96
+38,2/12/2022,315.97,transfer,Etsy,credit card,Salamrejo,IDR,224998.41
+39,3/12/2022,1407.27,transfer,Apple Music,debit card,Tyumen,RUB,603708.91
+40,3/30/2022,9507.11,credit,McDonald's,debit card,Florencia,COP,976111.6
+41,2/21/2022,3905.12,transfer,Chipotle,credit card,Zhongbu,CNY,97874.32
+42,4/11/2022,8671.14,transfer,Kroger,debit card,Sosnowiec,PLN,783246.58
+43,4/14/2022,5113.16,debit,Chipotle,credit card,Yaozhuang,CNY,740584.37
+44,6/4/2022,3298.58,debit,Spectrum Internet,credit card,Zhanbei,CNY,74860.72
+45,1/26/2022,5179.07,credit,Etsy,debit card,Płońsk,PLN,794831.21
+46,8/13/2022,2091.47,credit,Apple Music,cash,Shatrovo,RUB,874438.41
+47,1/10/2022,4060.39,transfer,Aldi,cash,Lensk,RUB,714481.97
+48,1/19/2022,1189.78,debit,Walmart.com,cash,Niederwaldkirchen,EUR,250477.69
+49,5/9/2022,7489.24,debit,eBay,cash,Laško,EUR,662387.23
+50,9/10/2022,6705.01,transfer,Costco,debit card,Kertamukti,IDR,790702.34
+51,4/28/2022,9891.24,debit,Olive Garden,debit card,Almere Haven,EUR,388364.87
+52,11/18/2022,9371.18,credit,Kroger,credit card,Battung,PHP,710397.32
+53,7/10/2022,3928.25,transfer,Trader Joe's,credit card,Ronov nad Doubravou,CZK,252453.42
+54,8/19/2022,761.17,transfer,Amazon,credit card,La Carlota,PHP,142994.31
+55,12/6/2022,4955.44,transfer,Kroger,credit card,Xindian,CNY,733619.85
+56,6/30/2022,9194.89,debit,"",debit card,Jiangdianzi,CNY,674057.97
+57,6/27/2022,7623.01,debit,Geico Auto Insurance,credit card,Palmar de Varela,COP,622128.74
+58,6/5/2022,1418.23,credit,Starbucks,debit card,Danderyd,SEK,715080.33
+59,7/30/2022,1823.12,transfer,Aldi,cash,Ivanovka,RUB,139892.08
+60,1/22/2022,2086.22,debit,Aldi,cash,Pandi,CNY,967966.4
+61,3/20/2022,7825.44,credit,Amazon,credit card,Nusajaya,MYR,990133.89
+62,5/25/2022,617.11,debit,Olive Garden,debit card,Aimin,CNY,975513.35
+63,5/10/2022,1297.08,transfer,Chipotle,credit card,Cantapoy,PHP,796566.73
+64,9/12/2022,3924.4,credit,State Farm Insurance,debit card,Cao Thượng,VND,470613.58
+65,3/9/2022,5073.22,transfer,Kroger,cash,Kryvyy Rih,UAH,219993.52
+66,1/8/2022,2454.57,credit,Trader Joe's,cash,Ljungskile,SEK,954584.54
+67,12/3/2022,5271.58,credit,Spectrum Internet,debit card,Fylí,EUR,588460.4
+68,12/28/2022,2157.52,transfer,State Farm Insurance,debit card,Pengfang,CNY,556622.76
+69,7/2/2022,8935.75,debit,Whole Foods,cash,Muḩradah,SYP,482343.68
+70,4/11/2022,5494.31,transfer,Whole Foods,cash,Yong’an,CNY,333777.18
+71,3/22/2022,3824.18,credit,Kroger,debit card,Araçoiaba da Serra,BRL,324088.09
+72,7/23/2022,791.72,debit,Whole Foods,debit card,Starychi,UAH,451787.34
+73,4/2/2022,2417.53,debit,Disney+,cash,Vanves,EUR,783457.01
+74,6/23/2022,7257.17,transfer,Con Edison Electric,credit card,Arroyo Naranjo,CUP,278961.99
+75,8/18/2022,5336.25,debit,Amazon Prime,debit card,Mulhouse,EUR,384981.3
+76,8/12/2022,864.58,debit,"",cash,Kanḏay,AFN,132381.27
+77,3/20/2022,624.35,credit,Best Buy,debit card,Poříčany,CZK,533998.38
+78,5/25/2022,4969.2,credit,Amazon Prime,debit card,Prudentópolis,BRL,630493.24
+79,6/19/2022,6456.42,transfer,eBay,debit card,Pangao,PHP,592677.84
+80,11/24/2022,9906.3,debit,State Farm Insurance,debit card,Saharna,MDL,476629.8
+81,8/7/2022,3666.48,transfer,"",cash,Thị Trấn Mộc Châu,VND,345847.07
+82,6/20/2022,6554.73,credit,"",cash,Duishan,CNY,992785.1
+83,5/13/2022,9830.04,credit,Verizon Wireless,cash,Qingliu,CNY,686035.8
+84,1/27/2022,1647.32,credit,Best Buy,cash,Wuquan,CNY,444504.18
+85,4/5/2022,883.02,transfer,Aldi,cash,Gaoyi,CNY,936922.84
+86,12/10/2022,6755.28,credit,Aldi,cash,Oefatu,IDR,581953.52
+87,6/27/2022,2304.51,transfer,Amazon Prime,debit card,Rio das Ostras,BRL,148277.5
+88,12/28/2022,7490.37,transfer,Apple Music,credit card,Tisul’,RUB,511466.12
+89,2/1/2022,2769.9,transfer,Costco,credit card,Sherpur,BDT,68036.73
+90,8/31/2022,5589.88,debit,Geico Auto Insurance,debit card,Chiclayo,PEN,745310.13
+91,3/29/2022,7858.57,transfer,Costco,debit card,Wosai,CNY,71370.75
+92,10/4/2022,8191.36,transfer,Spectrum Internet,debit card,Talayan,PHP,824181.1
+93,1/31/2022,2146.8,transfer,Shake Shack,cash,San Luis Ixcán,GTQ,397090.27
+94,10/26/2022,542.17,debit,Aldi,credit card,Ithari,NPR,397032.89
+95,3/26/2022,6413.23,transfer,Apple Music,cash,Ferrol,EUR,765696.62
+96,10/26/2022,5615.11,credit,Chipotle,cash,Wasior,IDR,744766.69
+97,1/25/2022,4714.1,debit,Whole Foods,credit card,Punsu,IDR,54479.71
+98,11/21/2022,7906.17,debit,Etsy,credit card,Kauniainen,EUR,662667.19
+99,3/14/2022,7312.41,transfer,Chipotle,credit card,Tibro,SEK,400873.45
+100,9/19/2022,4979.2,debit,"",credit card,Quimper,EUR,776326.8
+101,10/22/2022,1343.46,debit,Disney+,debit card,Veřovice,CZK,762536.69
+102,1/10/2022,7096.93,credit,McDonald's,credit card,Sfax,TND,140899.74
+103,2/1/2022,5740.03,transfer,Amazon Prime,debit card,General Villegas,ARS,600721.2
+104,2/6/2022,5285.06,debit,Walmart.com,cash,Kushtia,BDT,200993.14
+105,1/30/2022,3134.9,debit,Geico Auto Insurance,debit card,Kampene,CDF,513263.27
+106,7/10/2022,5240.69,transfer,Apple Music,credit card,Sidrolândia,BRL,20475.37
+107,12/10/2022,2790.44,transfer,eBay,credit card,Staraya Russa,RUB,338201.1
+108,12/6/2022,2354.93,debit,Whole Foods,cash,El Benque,HNL,253723.12
+109,9/8/2022,4603.39,credit,Spectrum Internet,debit card,Nicosia,EUR,334066.28
+110,12/30/2022,6560.06,credit,McDonald's,credit card,Mananum,PHP,35503.37
+111,12/25/2022,8116.13,credit,Apple Music,cash,Sundsvall,SEK,907558.73
+112,2/1/2022,6440.61,transfer,"",cash,Xinghua,CNY,737527.57
+113,5/27/2022,1662.49,credit,Con Edison Electric,credit card,Jiamaying,CNY,947932.32
+114,2/9/2022,567.29,transfer,Shake Shack,debit card,Santiago De Compostela,EUR,310517.53
+115,3/18/2022,3069.11,debit,Costco,debit card,Aldeia,EUR,592605.25
+116,8/25/2022,3959.46,credit,Aldi,debit card,Bizerte,TND,484729.42
+117,9/19/2022,5429.29,transfer,Walmart.com,cash,Bollstabruk,SEK,4508.49
+118,4/1/2022,9925.31,debit,Amazon,credit card,Grabovci,HRK,224088.02
+119,4/14/2022,346.16,debit,Walmart.com,credit card,Budapest,HUF,285649.82
+120,4/11/2022,3697.29,transfer,Netflix,cash,Damu,CNY,435650.87
+121,10/7/2022,5910.92,debit,Etsy,cash,Tibro,SEK,626076.39
+122,10/5/2022,4928.8,transfer,Best Buy,credit card,Rushanzhai,CNY,512192.26
+123,3/25/2022,713.52,debit,Netflix,cash,Västervik,SEK,790154.96
+124,1/9/2022,9413.29,debit,Amazon Prime,credit card,Panevėžys,LTL,400720.19
+125,9/16/2022,337.86,debit,eBay,cash,Balin,CNY,261401.16
+126,11/8/2022,2678.12,debit,Spotify,debit card,Jincheng,CNY,749543.14
+127,10/6/2022,2648.89,transfer,Disney+,cash,Chaupimarca,PEN,139440.61
+128,5/31/2022,9747.78,transfer,Amazon,debit card,Yangshuo,CNY,653524.31
+129,7/20/2022,3422.51,debit,Best Buy,credit card,Clearwater,USD,860005.22
+130,2/25/2022,4508.68,credit,eBay,credit card,Gobabis,NAD,230188.77
+131,9/12/2022,2562.94,debit,Verizon Wireless,credit card,Luleå,SEK,678951.48
+132,9/29/2022,4581.42,credit,Etsy,debit card,Puerto Varas,CLP,358124.95
+133,12/17/2022,9084.18,transfer,Kroger,credit card,Millet,CAD,650265.99
+134,6/23/2022,6438.83,credit,Kroger,cash,Dobrovo,EUR,39952.78
+135,10/26/2022,3917.79,credit,Verizon Wireless,cash,Žiželice,CZK,755507.18
+136,10/31/2022,9279.78,transfer,Etsy,debit card,Young America,USD,326157.92
+137,4/14/2022,4198.88,credit,Amazon Prime,debit card,Tassin-la-Demi-Lune,EUR,587435.16
+138,2/6/2022,9360.22,credit,Amazon Prime,credit card,Alice,ZAR,513371.83
+139,6/3/2022,9357.21,credit,Olive Garden,credit card,Yushanpu,CNY,672255.56
+140,4/17/2022,9905.05,credit,Shake Shack,debit card,Telmin Suma,MNT,437056.28
+141,11/17/2022,630.67,debit,Spotify,credit card,Bendilmuning,IDR,957973.47
+142,4/19/2022,8511.98,credit,eBay,cash,Nigríta,EUR,170029.84
+143,10/2/2022,3722.68,credit,"",debit card,Isfana,KGS,678256.7
+144,7/19/2022,6630.53,credit,Netflix,debit card,Shuikou,CNY,712208.86
+145,10/2/2022,5021.83,transfer,Best Buy,credit card,El Mirador,MXN,386473.63
+146,12/4/2022,1103.93,credit,Kroger,cash,Tangxi,CNY,811214.01
+147,5/7/2022,9136.96,credit,Spotify,debit card,Kalývia,EUR,892214.7
+148,2/15/2022,2880.45,transfer,McDonald's,credit card,Banī Khallād,TND,701139.69
+149,5/21/2022,8208.24,credit,Spectrum Internet,cash,Mesa,IDR,117822.31
+150,8/17/2022,5928.55,debit,Spectrum Internet,credit card,Tall Rif‘at,SYP,338253.08
+151,1/20/2022,6060.87,transfer,Olive Garden,debit card,Dadian,CNY,118490.65
+152,10/6/2022,1193.91,debit,Whole Foods,debit card,Panaitólion,EUR,74926.59
+153,4/23/2022,4504.63,debit,Shake Shack,credit card,Pong,THB,23017.15
+154,1/9/2022,8979.24,debit,Trader Joe's,credit card,Hanfeng,CNY,394849.48
+155,11/16/2022,566.41,credit,Whole Foods,debit card,Tangjiawan,CNY,288554.75
+156,10/13/2022,1196.35,transfer,McDonald's,credit card,Cibogo,IDR,612050.69
+157,3/19/2022,3672.49,debit,Spotify,cash,Matsuyama,JPY,86245.09
+158,3/9/2022,5798.43,credit,Etsy,debit card,Kendal,IDR,346992.3
+159,9/30/2022,5103.29,debit,Shake Shack,credit card,Nowosielce,PLN,244729.18
+160,12/1/2022,9226.68,credit,Spotify,debit card,Togur,RUB,380423.36
+161,6/30/2022,1644.17,credit,Geico Auto Insurance,credit card,Yaguajay,CUP,151121.99
+162,3/16/2022,5328.4,transfer,Starbucks,credit card,El Crucero,NIO,477583.22
+163,1/31/2022,4643.15,credit,Amazon,debit card,Córdoba,ARS,867657.5
+164,2/27/2022,1855.59,transfer,State Farm Insurance,cash,Cértegui,COP,199210.73
+165,2/9/2022,9157.25,debit,Shake Shack,cash,San Nicolas,PHP,37012.23
+166,3/29/2022,9014.88,debit,Trader Joe's,cash,Cergy-Pontoise,EUR,34160.36
+167,2/20/2022,1748.49,transfer,Amazon,debit card,Bendo,IDR,795249.28
+168,6/30/2022,8078.32,transfer,Olive Garden,cash,Lourdes,PHP,666454.82
+169,8/22/2022,5625.55,transfer,Shake Shack,cash,Kapenguria,KES,645447.91
+170,11/10/2022,4243.14,transfer,Verizon Wireless,debit card,Kašina,HRK,323997.38
+171,4/17/2022,7761.83,debit,McDonald's,debit card,Xiangshan,CNY,735483.18
+172,7/15/2022,2034.37,debit,Verizon Wireless,cash,Pantanal,BRL,627968.11
+173,11/2/2022,9681.65,transfer,Spectrum Internet,credit card,Palocabildo,COP,815819.88
+174,9/29/2022,7177.96,credit,Geico Auto Insurance,debit card,Takehara,JPY,214642.38
+175,9/5/2022,2588.87,credit,eBay,credit card,Hugang,CNY,519632.53
+176,4/22/2022,5657.69,debit,Best Buy,debit card,General Guido,ARS,429315.03
+177,1/30/2022,4628.11,debit,Walmart.com,debit card,Dieppe,EUR,279719.37
+178,10/10/2022,1655.92,credit,Verizon Wireless,debit card,Sonzacate,USD,997627.67
+179,2/11/2022,6925.05,credit,Chipotle,credit card,Muonio,EUR,187217.44
+180,9/17/2022,5116.83,debit,Amazon,credit card,Néa Filadélfeia,EUR,887468.58
+181,6/25/2022,6806.15,debit,Etsy,cash,Fradelos,EUR,732774.47
+182,5/13/2022,4582.21,credit,Chipotle,debit card,Buôn Trấp,VND,584989.44
+183,3/21/2022,6669.45,transfer,Netflix,cash,Courbevoie,EUR,578446.18
+184,11/8/2022,2521.94,credit,McDonald's,cash,Altanbulag,MNT,163397.65
+185,1/1/2022,4179.66,transfer,"",credit card,Desa Baregbeg,IDR,551913.89
+186,3/22/2022,8817.88,transfer,Spectrum Internet,credit card,Ojos de Agua,HNL,356981.97
+187,11/30/2022,3393.36,credit,Geico Auto Insurance,debit card,Montfort-sur-Meu,EUR,222463.75
+188,11/17/2022,491.17,transfer,Costco,debit card,Hejiadong,CNY,184794.58
+189,4/27/2022,9347.51,transfer,Con Edison Electric,credit card,Garunggang,IDR,523242.45
+190,3/5/2022,6570.63,credit,Aldi,cash,San Pablo,PEN,392521.65
+191,7/12/2022,7514.56,transfer,Best Buy,credit card,Semiring,IDR,302340.69
+192,2/15/2022,2904.36,debit,Con Edison Electric,cash,La Molina,PEN,214093.17
+193,12/2/2022,3730.15,debit,Amazon Prime,debit card,Uji,JPY,247170.76
+194,4/30/2022,9825.22,transfer,Starbucks,cash,Saraza,PHP,476906.76
+195,12/21/2022,6915.6,credit,Starbucks,credit card,Varkaus,EUR,142137.28
+196,11/27/2022,516.84,transfer,Trader Joe's,credit card,Carusucan,PHP,938068.06
+197,7/8/2022,6466.14,transfer,State Farm Insurance,cash,Askim,NOK,376945.29
+198,7/30/2022,1166.95,transfer,Verizon Wireless,debit card,Los Angeles,USD,944734.06
+199,1/17/2022,9876.22,debit,Aldi,debit card,Derventa,BAM,68323.75
+200,5/3/2022,7998.1,debit,Olive Garden,debit card,Halamendu,CNY,260654.22
+201,9/10/2022,4916.0,transfer,State Farm Insurance,debit card,Gouveia,EUR,64830.46
+202,11/28/2022,852.62,credit,Apple Music,debit card,Petrovo-Dal’neye,RUB,716211.52
+203,7/31/2022,4699.69,credit,Costco,debit card,San Pedro,CRC,281328.01
+204,4/4/2022,4085.73,credit,Aldi,cash,Reno,USD,215534.06
+205,2/10/2022,9972.28,credit,eBay,debit card,Al Finţās,KWD,254873.96
+206,9/16/2022,9190.01,credit,McDonald's,credit card,Guangfu,CNY,392168.7
+207,9/22/2022,9345.67,credit,Apple Music,cash,Västra Frölunda,SEK,31530.39
+208,6/2/2022,9952.87,debit,Con Edison Electric,debit card,Juncalito Abajo,DOP,866888.25
+209,7/5/2022,1938.24,transfer,Verizon Wireless,cash,Peruc,CZK,192061.52
+210,7/21/2022,8969.28,debit,Kroger,debit card,Linggou,CNY,984464.63
+211,1/18/2022,8905.79,debit,eBay,debit card,Maqiu,CNY,176931.23
+212,3/19/2022,3405.53,debit,Starbucks,debit card,Lurut,IDR,938501.11
+213,8/29/2022,9901.83,credit,Netflix,cash,Tawa,CNY,317418.66
+214,10/11/2022,7138.4,debit,Olive Garden,cash,Carayaó,PYG,367590.15
+215,8/5/2022,5582.05,transfer,Aldi,cash,Leluo,CNY,87611.5
+216,2/2/2022,3289.46,transfer,Etsy,credit card,Kholm,RUB,563609.51
+217,10/16/2022,5771.67,debit,Etsy,cash,Sampit,IDR,478633.22
+218,10/17/2022,1851.22,credit,Best Buy,debit card,Jaroměřice nad Rokytnou,CZK,438009.18
+219,11/26/2022,8524.2,debit,Con Edison Electric,credit card,Hualgayoc,PEN,453394.15
+220,6/6/2022,6977.06,debit,McDonald's,credit card,Araruama,BRL,53030.63
+221,8/11/2022,3709.64,credit,Whole Foods,debit card,San Carlos de Bariloche,ARS,534900.65
+222,2/8/2022,2801.61,transfer,Chipotle,debit card,Czarna Białostocka,PLN,184919.88
+223,5/16/2022,1580.44,transfer,Whole Foods,debit card,Itaberaí,BRL,460028.77
+224,6/26/2022,9014.17,credit,Con Edison Electric,credit card,Uruobo-Okija,NGN,70277.1
+225,9/12/2022,6708.45,transfer,Kroger,credit card,Antas,EUR,446712.44
+226,9/19/2022,2933.8,debit,Walmart.com,credit card,Yaosai,CNY,453156.94
+227,11/1/2022,5041.49,debit,Whole Foods,debit card,Privas,EUR,189095.13
+228,3/13/2022,2236.68,transfer,Amazon,debit card,Tall Abyaḑ,SYP,789309.15
+229,5/7/2022,3470.69,debit,Con Edison Electric,debit card,Bangassou,XAF,883713.73
+230,12/27/2022,3944.41,credit,Amazon,credit card,Kuching,MYR,811755.2
+231,10/29/2022,7132.66,credit,Chipotle,cash,Henghe,CNY,676429.94
+232,5/23/2022,2068.24,debit,Con Edison Electric,credit card,Raša,HRK,38512.17
+233,2/26/2022,7256.24,debit,Starbucks,credit card,Koutsopódi,EUR,995403.58
+234,9/12/2022,6880.27,debit,Costco,cash,Kachia,NGN,16882.58
+235,1/29/2022,9804.82,transfer,Whole Foods,debit card,Mauá,BRL,777871.55
+236,10/12/2022,2984.03,transfer,Spectrum Internet,debit card,Catalão,BRL,300416.2
+237,12/4/2022,1913.49,transfer,Shake Shack,debit card,Albertville,EUR,291023.15
+238,12/23/2022,5409.81,credit,Amazon,cash,Mindupok,PHP,614951.38
+239,3/2/2022,9048.49,credit,Trader Joe's,credit card,Tatuí,BRL,86356.14
+240,10/21/2022,3411.07,transfer,Whole Foods,cash,Jinnan,CNY,878894.37
+241,7/21/2022,8434.76,credit,Amazon Prime,credit card,Zonghan,CNY,210888.94
+242,9/17/2022,3909.98,credit,eBay,debit card,Lilin Satu,IDR,846863.86
+243,7/26/2022,1169.53,transfer,Apple Music,debit card,Ban Ko Lan,THB,685995.0
+244,11/17/2022,2957.52,debit,State Farm Insurance,credit card,Anto,IDR,791608.25
+245,6/11/2022,4572.54,transfer,Con Edison Electric,debit card,Seattle,USD,787359.53
+246,9/5/2022,1668.18,transfer,Best Buy,cash,Olhão,EUR,2610.67
+247,2/15/2022,7805.13,debit,State Farm Insurance,cash,Sapataria,EUR,528272.1
+248,12/14/2022,7901.77,credit,Aldi,debit card,Mitzpe Ramon,ILS,94385.06
+249,5/26/2022,8521.75,transfer,Etsy,cash,Quirinópolis,BRL,373478.81
+250,3/1/2022,2448.63,transfer,eBay,cash,Venda,EUR,206365.53
+251,5/9/2022,6354.19,transfer,Walmart.com,debit card,Naha-shi,JPY,613047.72
+252,6/27/2022,6511.69,debit,Geico Auto Insurance,cash,Biyong,CNY,97888.56
+253,8/21/2022,3507.14,transfer,Starbucks,debit card,Qŭrghonteppa,TJS,412607.97
+254,5/3/2022,2135.23,credit,Verizon Wireless,credit card,Puteaux,EUR,959418.77
+255,6/16/2022,1319.19,transfer,Aldi,credit card,David,PAB,472552.99
+256,7/15/2022,2414.57,debit,Costco,credit card,Balingcanaway,PHP,281430.71
+257,10/26/2022,6593.54,transfer,Trader Joe's,debit card,Gaoxu,CNY,350377.82
+258,1/26/2022,2208.56,transfer,Starbucks,credit card,Mvomero,TZS,990717.05
+259,8/25/2022,7590.46,credit,Geico Auto Insurance,cash,Tanghu,CNY,872566.81
+260,9/10/2022,4650.32,transfer,Verizon Wireless,credit card,Venëv,RUB,339992.74
+261,8/23/2022,1026.45,credit,Starbucks,cash,Jinji,CNY,342470.61
+262,6/26/2022,7125.35,credit,Starbucks,credit card,Sampués,COP,182104.19
+263,7/29/2022,5596.09,transfer,Disney+,credit card,Bangxi,CNY,736836.11
+264,1/9/2022,342.04,transfer,Con Edison Electric,credit card,Huangben,CNY,220240.14
+265,8/15/2022,3996.12,credit,"",debit card,Nagrak,IDR,392028.82
+266,3/2/2022,4824.65,credit,Amazon Prime,debit card,La Cumbre,COP,328147.13
+267,1/13/2022,6917.69,transfer,Shake Shack,credit card,Chujiang,CNY,847412.0
+268,1/28/2022,1917.3,debit,Apple Music,credit card,Santa Cruz,PHP,26670.27
+269,7/31/2022,1857.29,debit,Con Edison Electric,cash,Lakbok,IDR,87418.77
+270,8/21/2022,9354.22,debit,State Farm Insurance,cash,Thatta,PKR,516373.56
+271,8/20/2022,700.56,debit,Con Edison Electric,cash,Xinxing,CNY,56359.59
+272,1/1/2022,4484.81,transfer,Amazon,debit card,Billère,EUR,521938.39
+273,8/8/2022,8177.39,transfer,Shake Shack,debit card,Tualangcut,IDR,789023.63
+274,6/30/2022,8048.58,debit,Shake Shack,debit card,San Jose,PHP,980926.33
+275,11/21/2022,8756.06,debit,Verizon Wireless,debit card,Krajan Suko Kidul,IDR,983913.61
+276,11/14/2022,5154.96,credit,Walmart.com,debit card,Mionica,BAM,991800.01
+277,4/22/2022,792.21,transfer,Starbucks,debit card,Huangjinbu,CNY,139392.87
+278,3/6/2022,9096.72,credit,Chipotle,credit card,Paris 02,EUR,21639.02
+279,11/23/2022,7705.65,debit,Verizon Wireless,debit card,Syrskoye,RUB,374447.16
+280,7/13/2022,9238.6,credit,McDonald's,credit card,Rublëvo,RUB,777362.21
+281,5/8/2022,2760.05,transfer,Walmart.com,debit card,Titao,XOF,330702.74
+282,7/9/2022,3155.53,transfer,Olive Garden,credit card,Boronów,PLN,726510.18
+283,2/20/2022,879.51,debit,Trader Joe's,debit card,18 de Marzo,MXN,686795.9
+284,12/19/2022,6199.17,credit,Kroger,debit card,Kampungruweh,IDR,173323.69
+285,3/19/2022,7483.03,transfer,Walmart.com,credit card,Hongsihu,CNY,45523.22
+286,3/21/2022,3768.0,transfer,Shake Shack,credit card,Mkiriwadjumoi,KMF,1262.88
+287,1/31/2022,1004.84,transfer,Amazon Prime,credit card,Yitang,CNY,602110.76
+288,9/29/2022,1540.54,transfer,McDonald's,cash,Beringovskiy,RUB,990946.23
+289,7/1/2022,5969.65,credit,Best Buy,cash,Kiukasen,IDR,561913.36
+290,10/11/2022,7713.4,transfer,Trader Joe's,credit card,Pizhanka,RUB,877759.67
+291,9/14/2022,8957.67,credit,"",cash,Wilwerwiltz,EUR,262161.3
+292,3/21/2022,7973.46,credit,Apple Music,credit card,Sadov,CZK,646008.5
+293,7/26/2022,4428.32,credit,eBay,credit card,Cachoeira do Sul,BRL,70702.09
+294,11/16/2022,8838.45,debit,McDonald's,debit card,Sakata,JPY,817763.79
+295,7/17/2022,7317.15,credit,Chipotle,cash,Seremban,MYR,531522.05
+296,2/28/2022,7758.64,transfer,Costco,debit card,Houxi,CNY,375509.08
+297,9/8/2022,1222.17,transfer,Costco,cash,Charlotte Amalie,USD,275173.27
+298,3/18/2022,1845.99,credit,Con Edison Electric,debit card,Iñapari,PEN,267906.66
+299,10/17/2022,6255.27,transfer,Apple Music,cash,Floda,SEK,154633.92
+300,4/4/2022,5758.79,debit,Chipotle,debit card,Gombangan,IDR,990319.89
+301,2/5/2022,9182.18,transfer,Spotify,credit card,Bhamo,MMK,915494.41
+302,10/29/2022,9875.0,debit,Netflix,credit card,Karangkedawung,IDR,416699.93
+303,8/8/2022,3745.01,debit,Kroger,debit card,Maromitsa,RUB,422438.06
+304,11/4/2022,5999.44,debit,Disney+,debit card,Phu Phiang,THB,934943.16
+305,6/7/2022,7868.87,credit,Disney+,debit card,Gornyy,RUB,2402.21
+306,12/15/2022,8429.77,transfer,Shake Shack,cash,Banjar Asahduren,IDR,449140.81
+307,3/19/2022,2511.48,transfer,Amazon,cash,Sunzhuang,CNY,226764.58
+308,8/4/2022,1215.06,credit,Shake Shack,credit card,Phutthaisong,THB,256091.94
+309,1/4/2022,7509.43,debit,Geico Auto Insurance,debit card,Lille,EUR,438675.81
+310,3/31/2022,3304.97,transfer,Verizon Wireless,debit card,Xiatang,CNY,729625.79
+311,4/10/2022,5428.98,transfer,Olive Garden,debit card,Suhong,CNY,663988.49
+312,9/7/2022,6436.28,transfer,Spectrum Internet,credit card,Paracatu,BRL,705193.43
+313,2/28/2022,6124.45,debit,Whole Foods,cash,Los Angeles,USD,70675.63
+314,2/7/2022,7862.66,credit,Walmart.com,credit card,Colca,PEN,982526.54
+315,7/24/2022,5178.88,transfer,Olive Garden,credit card,Boca de Uchire,VEF,421839.13
+316,6/29/2022,4210.7,credit,Etsy,credit card,Sukamanah,IDR,953229.13
+317,1/22/2022,1456.15,transfer,Amazon,debit card,Sabá,HNL,603023.54
+318,3/8/2022,7129.24,debit,Amazon,credit card,Kamenjane,MKD,534627.33
+319,2/27/2022,5988.7,transfer,Spectrum Internet,credit card,Llama,PEN,977112.17
+320,3/25/2022,2018.36,credit,Costco,credit card,Kamiichi,JPY,715231.82
+321,10/26/2022,7920.69,credit,Netflix,credit card,Yelkhovka,RUB,779304.91
+322,12/15/2022,2331.64,debit,Olive Garden,debit card,Śródmieście,PLN,647685.55
+323,3/2/2022,1140.24,debit,Costco,debit card,Obubra,NGN,405726.02
+324,2/8/2022,563.13,debit,Spectrum Internet,credit card,Kaset Sombun,THB,494214.42
+325,1/17/2022,1740.78,debit,Starbucks,credit card,Kalilu,IDR,758515.3
+326,12/30/2022,1159.63,credit,Spotify,cash,Mpraeso,GHS,3086.89
+327,4/24/2022,7855.13,credit,"",debit card,Dongqiao,CNY,561886.61
+328,5/10/2022,2942.87,credit,Starbucks,debit card,Louny,CZK,736765.26
+329,11/16/2022,8227.04,debit,Whole Foods,debit card,Sawahrandu,IDR,752671.72
+330,7/10/2022,4146.1,credit,Shake Shack,cash,Jampang Kulon,IDR,778952.93
+331,12/6/2022,3414.58,credit,Best Buy,cash,Shuhong,CNY,115820.11
+332,11/20/2022,4111.76,transfer,Trader Joe's,credit card,Maradi,XOF,67852.66
+333,1/6/2022,2195.28,debit,Aldi,cash,Pallisa,UGX,375746.47
+334,1/27/2022,264.69,transfer,Shake Shack,debit card,Pervomayskaya,RUB,996104.7
+335,6/6/2022,4523.93,transfer,Costco,credit card,Voznesenskaya,RUB,546529.72
+336,8/28/2022,8616.86,credit,Verizon Wireless,debit card,Götene,SEK,867237.21
+337,12/24/2022,4286.43,transfer,Olive Garden,cash,Şuraabad,AZN,747073.2
+338,2/24/2022,973.08,debit,Starbucks,cash,Mikhaylovka,RUB,337524.72
+339,11/28/2022,5838.83,transfer,Olive Garden,debit card,Itarana,BRL,567052.17
+340,11/23/2022,8639.94,debit,Walmart.com,debit card,Shaozhai,CNY,164059.38
+341,2/10/2022,9396.75,transfer,Best Buy,cash,Kumagaya,JPY,315087.42
+342,3/3/2022,5429.3,debit,Geico Auto Insurance,debit card,Veghel,EUR,766801.66
+343,11/2/2022,7508.61,credit,Aldi,debit card,Lido,IDR,281830.11
+344,8/15/2022,7771.19,credit,Amazon,credit card,Zhongdong,CNY,748518.31
+345,5/23/2022,174.49,credit,eBay,cash,Digos,PHP,880142.51
+346,11/17/2022,7745.86,credit,Netflix,credit card,Kafr ad Dawwār,EGP,189374.23
+347,6/3/2022,3883.23,transfer,Walmart.com,debit card,Pandat,IDR,281291.95
+348,7/19/2022,8723.04,transfer,Aldi,credit card,Cesson,EUR,130357.23
+349,2/23/2022,9058.08,credit,Walmart.com,cash,Sibulan,PHP,533580.45
+350,2/8/2022,1649.45,debit,Best Buy,debit card,Pszczew,PLN,77424.35
+351,5/11/2022,8499.6,credit,Amazon,debit card,Chalamarca,PEN,92017.88
+352,8/4/2022,2511.67,debit,Starbucks,debit card,Bangkok,THB,748452.22
+353,5/15/2022,1079.68,debit,Verizon Wireless,credit card,Reitoca,HNL,310300.71
+354,9/24/2022,7011.11,credit,Whole Foods,cash,Creil,EUR,78648.26
+355,9/7/2022,5834.11,debit,State Farm Insurance,debit card,Jermuk,AMD,213967.34
+356,6/2/2022,5642.09,credit,Aldi,credit card,Gechuan,CNY,804396.6
+357,8/30/2022,1941.37,transfer,Trader Joe's,debit card,Shiqiaotou,CNY,251726.4
+358,11/24/2022,1563.9,debit,Netflix,cash,Khust,UAH,543050.2
+359,1/22/2022,5621.99,debit,Spectrum Internet,cash,Norzagaray,PHP,45786.06
+360,5/2/2022,9787.83,debit,Starbucks,credit card,Jinhaihu,CNY,61405.06
+361,7/10/2022,6157.67,debit,Verizon Wireless,credit card,Ängelholm,SEK,574938.14
+362,12/26/2022,9560.94,debit,Apple Music,cash,Petoa,HNL,156761.1
+363,12/6/2022,1617.92,transfer,eBay,cash,San Francisco de Macorís,DOP,18632.75
+364,5/13/2022,280.93,debit,eBay,cash,Cárdenas,CUP,245944.44
+365,4/2/2022,619.49,transfer,Walmart.com,credit card,Saraburi,THB,350995.31
+366,11/8/2022,1719.38,debit,McDonald's,cash,Saniwonorejo,IDR,414425.65
+367,11/3/2022,3699.37,credit,McDonald's,debit card,Gobabis,NAD,703996.42
+368,8/8/2022,4927.88,credit,Disney+,cash,Martingança,EUR,532932.98
+369,2/18/2022,34.35,transfer,Netflix,cash,Llorente,PHP,478379.64
+370,10/4/2022,6727.7,debit,Starbucks,credit card,Norrtälje,SEK,493724.18
+371,1/3/2022,6801.4,debit,Verizon Wireless,cash,Bautista,PHP,12962.85
+372,10/1/2022,1934.64,credit,Spectrum Internet,debit card,Macau,BRL,445208.06
+373,12/14/2022,8660.95,debit,Trader Joe's,credit card,Montpellier,EUR,689473.06
+374,2/14/2022,4847.26,debit,McDonald's,debit card,Yenangyaung,MMK,52632.29
+375,3/27/2022,4202.54,debit,"",debit card,Nart,MNT,180792.19
+376,12/14/2022,5024.48,transfer,"",credit card,La Rochelle,EUR,520184.45
+377,2/26/2022,1861.73,debit,Starbucks,credit card,Horní Počaply,CZK,604291.72
+378,1/23/2022,1024.07,debit,Costco,credit card,Puerto Galera,PHP,882390.89
+379,3/26/2022,6044.08,credit,State Farm Insurance,cash,Tanudan,PHP,15803.75
+380,3/23/2022,7933.86,debit,Starbucks,cash,Balong Wetan,IDR,759705.81
+381,2/12/2022,3574.92,transfer,State Farm Insurance,credit card,Sypniewo,PLN,338216.67
+382,4/16/2022,8784.49,transfer,"",cash,Dahedian,CNY,276913.12
+383,1/11/2022,7060.08,credit,Whole Foods,debit card,Lutou,CNY,286932.5
+384,3/17/2022,8448.3,credit,Walmart.com,debit card,Lijia,CNY,569168.6
+385,10/22/2022,1790.2,credit,Trader Joe's,debit card,Silver Spring,USD,787651.81
+386,3/19/2022,9468.25,credit,eBay,debit card,Putina,PEN,36501.45
+387,6/5/2022,3853.89,credit,Starbucks,cash,Otra Banda,DOP,554185.58
+388,7/28/2022,8636.81,transfer,Disney+,credit card,Saryshaghan,KZT,500209.13
+389,1/28/2022,3923.14,credit,Amazon,cash,Jocón,HNL,135955.41
+390,11/23/2022,9264.56,credit,McDonald's,cash,Vorontsovka,RUB,159681.98
+391,10/12/2022,4762.74,transfer,Aldi,debit card,Ovalle,CLP,465990.41
+392,2/19/2022,6181.86,credit,Whole Foods,debit card,Dingjiaqiao,CNY,714397.78
+393,5/15/2022,4199.28,debit,Geico Auto Insurance,cash,Kalanguy,RUB,872651.42
+394,5/9/2022,1401.17,credit,Trader Joe's,cash,Casal Galego,EUR,249074.38
+395,4/7/2022,5001.05,debit,"",cash,Australia Square,AUD,622329.29
+396,1/26/2022,9835.46,debit,Etsy,cash,Chişinău,MDL,758896.44
+397,9/10/2022,4373.93,credit,Geico Auto Insurance,credit card,Novopavlovsk,RUB,789590.23
+398,7/10/2022,3387.06,debit,Verizon Wireless,debit card,Raymond,CAD,595900.2
+399,1/8/2022,1398.7,debit,Apple Music,credit card,Järfälla,SEK,466602.13
+400,10/19/2022,5381.81,transfer,Best Buy,credit card,Lagarto,BRL,185291.21
+401,3/2/2022,8446.75,credit,Starbucks,credit card,Koten,IDR,38582.53
+402,1/19/2022,846.0,credit,Con Edison Electric,credit card,Kamieniec Podolski,UAH,68169.87
+403,8/15/2022,1597.04,credit,Etsy,debit card,Prince Rupert,CAD,584358.35
+404,2/21/2022,7604.11,debit,Shake Shack,debit card,Tögrög,MNT,73011.06
+405,8/6/2022,4538.78,transfer,Kroger,cash,Nogueira,EUR,101187.14
+406,6/20/2022,9406.02,transfer,Con Edison Electric,debit card,Huangshi,CNY,780237.61
+407,7/14/2022,2464.18,credit,Verizon Wireless,cash,Périgueux,EUR,963396.08
+408,6/20/2022,9030.82,credit,Verizon Wireless,cash,Katabu,IDR,719225.33
+409,5/31/2022,1684.64,debit,Netflix,credit card,København,DKK,362694.0
+410,7/25/2022,8550.96,credit,Walmart.com,debit card,San Fernando de Monte Cristi,DOP,840359.81
+411,10/12/2022,7889.52,debit,Starbucks,debit card,Samangawah,IDR,796983.99
+412,12/4/2022,7161.99,credit,Spotify,credit card,Langres,EUR,854824.48
+413,8/11/2022,460.67,transfer,Verizon Wireless,credit card,Baborów,PLN,870689.22
+414,7/11/2022,7978.15,debit,Spectrum Internet,debit card,Costa de Rios Frios,EUR,5872.42
+415,12/30/2022,4543.32,debit,Aldi,cash,Tārūt,SAR,117219.36
+416,9/21/2022,9014.23,credit,Whole Foods,credit card,Kolobolon,IDR,541467.56
+417,10/26/2022,3509.47,debit,Chipotle,cash,Brändö,EUR,801775.38
+418,9/20/2022,849.28,credit,Costco,cash,Chakari,ZWL,716220.93
+419,8/12/2022,2130.9,transfer,Apple Music,cash,Cluses,EUR,614102.35
+420,1/20/2022,2738.83,debit,Trader Joe's,credit card,Villa Consuelo,DOP,477483.52
+421,1/25/2022,2220.17,debit,Geico Auto Insurance,debit card,Bafia,XAF,616491.75
+422,6/26/2022,8285.36,transfer,Spectrum Internet,credit card,João Pessoa,BRL,205448.17
+423,12/10/2022,8371.22,debit,Shake Shack,debit card,Kalatongke,CNY,881475.28
+424,8/19/2022,7223.03,credit,State Farm Insurance,credit card,Brändö,EUR,799372.54
+425,10/17/2022,5121.61,transfer,Trader Joe's,cash,Tabalosos,PEN,295827.91
+426,11/10/2022,2784.3,transfer,Apple Music,debit card,Unity,CAD,786662.7
+427,7/28/2022,4849.91,debit,Amazon Prime,credit card,Likupang,IDR,78019.66
+428,10/31/2022,6828.84,debit,Walmart.com,cash,Las Vegas,USD,926053.92
+429,4/20/2022,9455.27,transfer,eBay,debit card,Charleston,USD,704360.57
+430,7/19/2022,6654.71,transfer,Starbucks,cash,Linamon,PHP,553528.5
+431,6/26/2022,7429.58,credit,Disney+,debit card,Wufeng,CNY,840173.43
+432,2/10/2022,5859.83,credit,Apple Music,cash,Jiazhuyuan,CNY,482856.68
+433,10/24/2022,9722.54,transfer,Costco,debit card,Kittilä,EUR,764571.97
+434,10/25/2022,4060.33,debit,Spectrum Internet,cash,Bocowanti,IDR,120723.55
+435,10/30/2022,4778.46,transfer,Spotify,debit card,Colima,CRC,190295.87
+436,5/4/2022,7942.68,debit,Disney+,credit card,Nong Bun Nak,THB,149567.51
+437,10/26/2022,7051.56,credit,Con Edison Electric,debit card,Sari,IRR,485263.78
+438,5/20/2022,5175.05,credit,Verizon Wireless,cash,Pýrgos,EUR,971234.69
+439,2/10/2022,8993.0,credit,Best Buy,debit card,Ford,GBP,104165.09
+440,5/5/2022,8335.5,debit,Shake Shack,credit card,Puro Pinget,PHP,726239.56
+441,2/21/2022,7321.39,credit,Walmart.com,cash,Medellín,COP,328938.2
+442,8/13/2022,60.94,debit,Costco,cash,Kuafeu,IDR,534232.45
+443,12/10/2022,4845.1,transfer,Netflix,cash,Drahovo,UAH,661266.4
+444,2/14/2022,628.08,transfer,eBay,debit card,Takokak,IDR,534978.54
+445,3/17/2022,6163.78,debit,Con Edison Electric,debit card,Zadawa,NGN,763388.54
+446,7/9/2022,1840.17,debit,eBay,cash,Gvozd,HRK,990557.59
+447,3/30/2022,2560.6,debit,Starbucks,cash,Alto Río Senguer,ARS,199284.91
+448,2/2/2022,824.21,credit,Best Buy,debit card,Wiyayu Barat,IDR,33861.37
+449,9/19/2022,729.67,credit,Etsy,debit card,Nashville,USD,808014.08
+450,1/11/2022,7097.11,transfer,Etsy,debit card,Hilversum,EUR,405616.65
+451,12/20/2022,2341.09,debit,Amazon Prime,debit card,Kohlu,PKR,241211.56
+452,3/26/2022,903.85,debit,Walmart.com,credit card,Biecz,PLN,233138.67
+453,8/2/2022,2486.35,credit,Starbucks,debit card,Qufu,CNY,65282.39
+454,1/3/2022,8707.09,transfer,Verizon Wireless,cash,Al Wajh,SAR,85893.3
+455,7/2/2022,3477.84,debit,Disney+,credit card,Uujim,MNT,379253.72
+456,10/29/2022,2158.87,debit,Con Edison Electric,credit card,Trenggulunan,IDR,379185.3
+457,12/23/2022,2645.95,credit,Costco,credit card,Timbaúba,BRL,197479.95
+458,7/24/2022,3618.92,credit,Walmart.com,debit card,Hanyuan,CNY,8842.83
+459,4/21/2022,6920.9,credit,Geico Auto Insurance,debit card,Oibioin,IDR,526610.85
+460,12/18/2022,8781.65,transfer,Etsy,debit card,Yilan,CNY,855155.6
+461,10/29/2022,6828.74,debit,Trader Joe's,cash,Liangguang,CNY,52442.79
+462,3/5/2022,1318.08,transfer,Best Buy,cash,Fabianki,PLN,41005.18
+463,7/15/2022,3924.49,credit,Con Edison Electric,debit card,Jiaogong,CNY,955374.35
+464,5/17/2022,1061.28,debit,Kroger,cash,Šumperk,CZK,731970.9
+465,1/29/2022,1889.89,transfer,Netflix,debit card,Shiling,CNY,581103.52
+466,10/8/2022,5701.49,transfer,eBay,cash,Shatoujiao,CNY,439700.59
+467,12/26/2022,877.84,credit,Whole Foods,cash,Abbeville,EUR,733513.86
+468,2/6/2022,6494.58,credit,Netflix,cash,Zhongjiapu,CNY,571279.29
+469,5/10/2022,1568.41,transfer,Disney+,debit card,Boguchwała,PLN,122393.57
+470,10/23/2022,4792.7,transfer,Whole Foods,credit card,Las Mesas,VEF,143079.86
+471,4/25/2022,8700.04,transfer,eBay,cash,Cantilan,PHP,34842.51
+472,2/13/2022,6353.08,transfer,Trader Joe's,debit card,Baffa,PKR,572800.09
+473,1/2/2022,9394.16,credit,McDonald's,debit card,East End,KYD,961208.68
+474,11/25/2022,4278.33,debit,"",credit card,Zürich,CHF,487087.45
+475,1/3/2022,1133.4,debit,Verizon Wireless,credit card,Palaió Fáliro,EUR,44454.03
+476,4/10/2022,525.0,debit,Etsy,debit card,Sambong,IDR,34350.76
+477,11/17/2022,5552.3,debit,"",credit card,28 de Noviembre,ARS,884046.86
+478,3/11/2022,5438.57,credit,Geico Auto Insurance,cash,Cotton Ground,XCD,882799.54
+479,6/29/2022,6671.35,debit,eBay,credit card,Carianos,BRL,148684.1
+480,12/5/2022,8356.0,credit,Aldi,cash,Ash Shāmīyah,KWD,248282.53
+481,9/17/2022,9430.3,debit,Netflix,credit card,Khamyāb,AFN,715443.35
+482,5/22/2022,7257.66,transfer,Etsy,debit card,Gwangju,KRW,415561.03
+483,3/4/2022,934.0,transfer,Starbucks,debit card,Guanlu,CNY,416602.43
+484,3/22/2022,2475.91,transfer,Walmart.com,debit card,Aurelliana,PHP,95459.01
+485,11/11/2022,905.3,credit,Spotify,debit card,Dois Córregos,BRL,624046.19
+486,12/26/2022,7031.31,debit,Geico Auto Insurance,credit card,La Concepción,NIO,181817.85
+487,12/18/2022,3662.9,credit,Walmart.com,cash,Sololá,GTQ,901442.41
+488,8/15/2022,6767.69,debit,Aldi,debit card,Bukedea,UGX,104244.95
+489,3/12/2022,7270.61,credit,Chipotle,cash,Gusang,CNY,797908.45
+490,4/23/2022,6889.9,credit,Amazon,credit card,Fenglin,CNY,710100.88
+491,1/27/2022,1273.73,credit,Best Buy,cash,Ágios Matthaíos,EUR,551574.73
+492,2/15/2022,1029.29,debit,"",cash,Podgorenskiy,RUB,489374.58
+493,1/11/2022,4471.68,debit,Etsy,credit card,Lanipao,PHP,6973.44
+494,9/14/2022,5655.15,debit,Amazon,debit card,Foxton,NZD,635133.43
+495,9/4/2022,1567.75,debit,Etsy,debit card,Tmourghout,MAD,870024.0
+496,11/25/2022,6922.65,debit,Walmart.com,debit card,Quebrada de Arena,HNL,181719.43
+497,3/19/2022,8179.51,debit,Etsy,debit card,Santa Lucia,PHP,417639.31
+498,11/9/2022,4535.85,credit,Disney+,debit card,Liqiao,CNY,976326.55
+499,12/12/2022,419.11,transfer,Trader Joe's,credit card,Hexi,CNY,562456.36
+500,1/17/2022,3287.36,transfer,"",credit card,Vila,EUR,178564.83
